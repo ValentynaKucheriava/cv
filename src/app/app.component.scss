@@ -1,0 +1,46 @@
+.info-card {
+  max-width: 420px;
+  min-width: 400px;
+}
+
+.info-card-name {
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+}
+
+.text-center {
+  align-items: flex-end;
+}
+
+.rounded-image {
+  border-radius: 20%; /* This will make the image round */
+  width: 165px; /* Adjust the width as needed */
+  height: 220px; /* Adjust the height as needed */
+}
+
+@media (min-width: 880px) and (min-height: 600px) {
+  .rounded-card {
+    position: fixed;
+    top: 0;
+  }
+}
+.rounded-card {
+  border-radius: 30px;
+  box-shadow: 5px 5px 10px 1px #00000026;
+  min-width: 325px;
+}
+
+.button-cv {
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px 1px #00000054;
+}
+
+.mat-mdc-card-title {
+  font-size: 25px;
+}
+
+
+.cv-details {
+  min-width: 440px;
+}

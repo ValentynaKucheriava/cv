@@ -1,0 +1,37 @@
+{
+  "info": {
+    "name": "Valentyna Kucheriava",
+    "phone": "+48 574 226 693",
+    "email": "valentynakucheriava@outlook.com",
+    "location": "Lodz, Poland",
+    "downloadCV": "Download CV"
+  },
+  "resume": {    
+    "careerObj": {
+      "title": "Career objective",
+      "content": "I am interested in using my skills in analyzing data and solving problems to find useful information. This information can help the company make better decisions and grow in a strategic way.<br/>I know how to use databases, including <strong>SQL</strong> and <strong>Excel</strong>."
+    },
+    "education": {
+      "title": "Education",
+      "university": "<strong>09.2020 – present | Kyiv National Economic University, Ukraine</strong><br/>Faculty of Economics and Management<br/>Businees Economics<br/>Bachelor’s degree",
+      "details": ""
+    },
+    "experience": {
+      "title": "Work experience",
+      "firstJob": "<strong>02.2024 - 03.2024 | internship</strong><br/>Epicentr K, Ukraine, Kyiv<br/>Responsibilities:",
+      "firstContent": "• Analyzing financial data and preparing reports"
+    },
+    "languages": {
+      "title": "Languages",
+      "polLanguage": "Polish",
+      "engLanguage": "English",
+      "ukrLanguage": "Ukrainian",
+      "rusLanguage": "Russian"
+    },
+    "skills": {
+      "title": "Skills",
+      "soft": "<h3><strong>Soft skills</strong></h3>• Teamwork",
+      "hard": "<h3><strong>Hard skills</strong></h3>• Microsoft Excel - upper intermediate<br/>• MS SQL Server<br/>• PostgreSQL<br/>• Microsoft 365"
+    }
+  }
+}
